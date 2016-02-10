@@ -10,7 +10,6 @@
   * **[[:tet:obe:kt:sin]]**
   * **[[:tet:obe:other:adam]]**
   * **[[:tet:obe:other:eve]]**
-  * **[[:tet:obe:kt:sin]]**
   * **[[:tet:obe:other:descendant]]**
 
 
