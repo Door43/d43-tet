@@ -8,7 +8,7 @@ The **kings** of **Judah** were **descendants** of **David**. Some of these king
 
 
   * **[[:tet:obe:other:king]]**
-  * **[[:tet:obe:other:kingdom-of-judah]]**
+  * **[[:tet:obe:other:kingdomofjudah]]**
   * **[[:tet:obe:other:descendant]]**
   * **[[:tet:obe:other:david]]**
   * **[[:tet:obe:kt:good]]**
