@@ -8,8 +8,8 @@ The **kingdoms** of **Judah** and **Israel** became enemies and often fought aga
 
 
   * **[[:tet:obe:other:kingdom]]**
-  * **[[:tet:obe:other:kingdom-of-judah]]**
-  * **[[:tet:obe:other:kingdom-of-israel]]**
+  * **[[:tet:obe:other:kingdomofjudah]]**
+  * **[[:tet:obe:other:kingdomofisrael]]**
 
 
 ==== Translation Notes: ====
