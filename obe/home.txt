@@ -1,9 +1,9 @@
-====== Complete List of Important Terms ======
+====== Complete List of translationWords - Tetum ======
 
-==== "Key Terms" and "Other Terms" in OBE: ====
+==== "Key Terms" and "Other Terms" in OBE Directory: ====
 
-  * [[:tet:obe:kt:home|Key Terms]]
-  * [[:tet:obe:other:home|Other Terms]]
+  * [[:tet:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:tet:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
